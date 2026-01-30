@@ -16,7 +16,8 @@
 
    *Recommendation: A GPU with at least 6GB VRAM (NVIDIA RTX 3060 or higher).*
 
-3.**download modules**
+3. **download modules**
+   
    ```bash
    models--lllyasviel--sd-controlnet-canny
    models--runwayml--stable-diffusion-v1-5
