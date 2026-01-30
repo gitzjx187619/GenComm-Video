@@ -1,0 +1,12 @@
+torch>=2.0.0
+torchvision
+opencv-python
+diffusers
+transformers
+accelerate
+scipy
+matplotlib
+lpips
+scikit-image
+numpy
+Pillow
