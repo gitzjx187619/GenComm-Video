@@ -1,6 +1,6 @@
 
-# GenComm-Video: LLM-Guided Semantic Video Communication 🚀
-## 🛠️ Installation
+# GenComm-Video: LLM-Guided Semantic Video Communication 
+##  Installation
 
 1. **Clone the repository**:
    ```bash
@@ -25,7 +25,7 @@
    ```
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 1. **Prepare Input Video**:
    Place your test video (e.g., `test.mp4`) in the root directory.
@@ -45,7 +45,7 @@
 ---
 
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 GenComm-Video/
