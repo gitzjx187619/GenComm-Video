@@ -44,7 +44,20 @@
 
 ---
 
+##  System Architecture
 
+```mermaid
+graph LR
+    A[Input Video] --> B(Encoder)
+    B -->|Semantics| C[BLIP -> Text Prompt]
+    B -->|Structure| D[Canny -> Edge Map]
+    C --> E((Channel < 50kbps))
+    D --> E
+    E --> F(Decoder)
+    F -->|ControlNet| G[Stable Diffusion]
+    G --> H[Output Video]
+```
+---
 ##  Project Structure
 
 ```text
