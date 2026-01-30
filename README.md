@@ -6,6 +6,7 @@
    ```bash
    git clone https://github.com/gitzjx187619/GenComm-Video.git
    cd GenComm-Video
+   ```
 ````
 
 2. **Install dependencies**:
