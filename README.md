@@ -1,13 +1,12 @@
-````markdown
+
 # GenComm-Video: LLM-Guided Semantic Video Communication 🚀
----
 ## 🛠️ Installation
 
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/gitzjx187619/GenComm-Video.git
    cd GenComm-Video
-````
+   ```
 
 2. **Install dependencies**:
 
